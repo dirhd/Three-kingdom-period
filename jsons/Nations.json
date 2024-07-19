@@ -38,7 +38,7 @@
 		"leaderName": "박혁거세",
 		"adjective": ["신라인"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "diplomatic",
+		"preferredVictoryType": "Diplomatic",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
