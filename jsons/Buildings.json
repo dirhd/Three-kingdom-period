@@ -4,7 +4,7 @@
 		"uniqueTo": "고구려",
 		"cityHealth": 300
 		"happiness": 1,
-		"requiredTech": "Masonory"
+		"requiredTech": "Masonry"
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -15,6 +15,6 @@
 		"cityHealth": 100,
 		"cityStrength": 30
 		"uniques": ["Destroyed when the city is captured"]
-		"requiredTech": "Chivarly"
+		"requiredTech": "Chivalry"
 	},
 ]
