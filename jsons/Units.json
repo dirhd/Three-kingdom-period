@@ -7,7 +7,7 @@
 		"movement": 5,
 		"strength": 25,
 		"cost": 140,
-		"requiredTech": "Horses",
+		"requiredTech": "Chivalry",
 		"requiredResource": "Horses, Iron",
 		"promotions": ["철갑"],
 		"attackSound": "metalhit"
