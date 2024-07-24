@@ -1,25 +1,20 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "성곽",
+		"uniqueTo": "고구려",
+		"cityHealth": 300
+		"happiness": 1,
+		"requiredTech": "Masonory"
+		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name": "산성",
+		"replaces": "Castle",
+		"uniquero:": "고구려"
+		"maintenance": 4,
+		"cityHealth": 100,
+		"cityStrength": 30
+		"uniques": ["Destroyed when the city is captured"]
+		"requiredTech": "Chivarly"
+	},
 ]
