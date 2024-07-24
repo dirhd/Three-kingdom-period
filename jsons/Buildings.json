@@ -10,7 +10,7 @@
 	{
 		"name": "산성",
 		"replaces": "Castle",
-		"uniqueto:": "고구려"
+		"uniqueTo:": "고구려"
 		"maintenance": 4,
 		"cityHealth": 100,
 		"cityStrength": 30
