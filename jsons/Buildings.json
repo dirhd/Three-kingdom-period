@@ -2,9 +2,9 @@
 	{
 		"name": "성곽",
 		"uniqueTo": "고구려",
-		"cityHealth": 300
+		"cityHealth": 300,
 		"happiness": 1,
-		"requiredTech": "Masonry"
+		"requiredTech": "Masonry",
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
@@ -13,8 +13,8 @@
 		"uniqueTo:": "고구려",
 		"maintenance": 4,
 		"cityHealth": 100,
-		"cityStrength": 30
-		"uniques": ["Destroyed when the city is captured"]
+		"cityStrength": 30,
+		"uniques": ["Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
 	},
 ]
